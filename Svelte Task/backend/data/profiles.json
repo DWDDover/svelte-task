@@ -1,0 +1,40 @@
+[
+  {
+  "id": 1,
+  "name": "Declan Doverghgf",
+  "email": "declandover2@gmail.com",
+  "age": "55",
+  "bio": "example bio, example bio, example bio",
+  "projects": [
+    {
+        "id": 2,
+        "title": "web601 test server",
+        "description": "a test server built with Node.js and Express.js",
+        "url": "https://github.com/username/web601",
+        "status": "planned"
+    },
+    {
+        "id": 5,
+        "title": "New Project",
+        "description": "Testing the POST endpoint.",
+        "url": "https://github.com/username/new",
+        "status": "planned"
+    },
+    {
+        "id": 6,
+        "title": "New Project",
+        "description": "Testing the POST endpoint.",
+        "url": "https://github.com/username/new",
+        "status": "planned"
+    }
+]
+},
+{
+  "id": 2,
+  "name": "Name 2",
+  "email": "name2@gmail.com",
+  "age": "22",
+  "bio": "example bio, example bio, example bio",
+  "projects": []
+}
+]
