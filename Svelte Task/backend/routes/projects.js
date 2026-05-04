@@ -8,7 +8,7 @@ function validate(body, next) {
     if (result.success) return result.data; 
     const err = new Error('Validation failed'); 
     err.status = 422; 
-    err.details = result.error.errors.map(e => ({ field: String(e.path[0]), message: e.message }));
+    err.details = result.error.issues.map(e => ({ field: String(e.path[0]), message: e.message }));
     next(err); 
     return null; 
 }
