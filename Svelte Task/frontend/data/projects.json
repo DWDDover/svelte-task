@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website",
+    "description": "A personal site built with HTML, CSS, and vanilla JavaScript.",
+    "status": "complete",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "REST API",
+    "description": "An Express API with full CRUD endpoints and input validation.",
+    "status": "complete",
+    "technologies": [
+      "Node.js",
+      "Express"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Svelte Frontend",
+    "description": "A SvelteKit frontend that connects to the REST API.",
+    "status": "in-progress",
+    "technologies": [
+      "Svelte",
+      "Tailwind"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Community Event Platform",
+    "description": "A full-stack group project — events, venues, and participants.",
+    "status": "in-progress",
+    "technologies": [
+      "Node.js",
+      "Express",
+      "Svelte"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "API Documentation",
+    "description": "OpenAPI documentation for the REST API, written in Swagger.",
+    "status": "complete",
+    "technologies": [
+      "Swagger",
+      "OpenAPI"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "New test project",
+    "description": "        Test",
+    "status": "in-progress",
+    "technologies": []
+  },
+  {
+    "id": 7,
+    "title": "hfghgfhgfhfghfghf",
+    "description": "                    sfgsfds",
+    "status": "in-progress",
+    "technologies": [
+      "JavaScript",
+      "Express",
+      "Swagger"
+    ]
+  }
+]
